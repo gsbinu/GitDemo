@@ -11,6 +11,7 @@ public class sample {
 		}catch(Exception e){
 			Added a new line
 			Added a second line
+			This is a new branch
 		}
 	}
 }
